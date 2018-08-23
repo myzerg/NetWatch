@@ -37,7 +37,7 @@ namespace NetWatch.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("3000")]
+        [global::System.Configuration.DefaultSettingValueAttribute("3")]
         public int wait_second {
             get {
                 return ((int)(this["wait_second"]));
